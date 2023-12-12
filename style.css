@@ -33,6 +33,7 @@ strong {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+  padding: 0 24px;
 }
 
 h1, h2, p {
@@ -77,6 +78,7 @@ section p {
 main {
   background-color: var(--gray-color-medium);
   height: 450px;
+  padding: 64px 0;
   border-top: var(--gray-color-light) 8px solid;
 }
 
@@ -88,7 +90,7 @@ main {
 }
 
 .card {
-  margin-top: 72px;
+  /* margin-top: 72px; */
   background-color: var(--gray-color-white);
   width: 800px;
   margin-left: -24px;
